@@ -2,6 +2,9 @@
 
 A simple analog clock application built using C# and Windows Forms.
 
+![image](https://github.com/user-attachments/assets/485d6508-969b-4774-9193-a3bd586fa37c)
+
+
 ## Features
 
 - **Real-time Clock**: Displays the current time with hour, minute, and second hands.
